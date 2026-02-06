@@ -1,0 +1,11 @@
+apiVersion: v2
+name: pars-core
+description: Pars DAO core infrastructure
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
+home: https://pars.id
+icon: https://pars.id/icon.png
+maintainers:
+  - name: Pars DAO
+    email: ops@pars.id
