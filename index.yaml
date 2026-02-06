@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pars-core:
+  - apiVersion: v2
+    appVersion: "1.0.0"
+    created: "2026-02-06T06:15:25Z"
+    description: Pars DAO core infrastructure
+    digest: ""
+    name: pars-core
+    type: application
+    urls:
+    - https://github.com/parsdao/charts/releases/download/pars-core-0.1.0/pars-core-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-02-06T06:17:00Z"
